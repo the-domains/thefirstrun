@@ -1,7 +1,7 @@
 name: TheFirstRun
 favicon: null
-layout_spectrum: 0.8870403605978936
-typography_spectrum: 0.17929626209661365
+layout_spectrum: 0.35294
+typography_spectrum: 0.41638
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#ef3618'
     - '#0c8805'
   brandStrength: 0.5
-  lightness: 0.31164587289094925
-  saturation: 0.1641567333135754
-  rhythmicContrast: 0.7677560858428478
+  lightness: 1
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []

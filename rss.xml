@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheFirstRun]]></title>
         <description><![CDATA[TheFirstRun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thefirstrun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 19:12:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 19:13:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thefirstrun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Website]]></title>
+            <description><![CDATA[<article><h1>Website</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c35fe4-9232-4b93-97f0-8449b23b2529.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thefirstrun/website/index.html</link>
+            <guid isPermaLink="false">14605ebe-2bbd-4a0b-a7e9-aae3728305ae</guid>
+            <pubDate>Tue, 03 Nov 2015 19:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Booka]]></title>
             <description><![CDATA[<article><h1>Booka</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c5d420d-ef1e-4cb4-8dbd-2bfd3ae40706.jpg"></article>]]></description>
-            <link>undefinedbooka/index.html</link>
+            <link>https://thegrid.ai/thefirstrun/booka/index.html</link>
             <guid isPermaLink="false">3e59543d-51c6-4011-8c73-2b8737681bc2</guid>
             <pubDate>Tue, 03 Nov 2015 19:12:42 GMT</pubDate>
         </item>

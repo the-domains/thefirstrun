@@ -1,0 +1,23 @@
+name: TheFirstRun
+favicon: null
+layout_spectrum: 0.8870403605978936
+typography_spectrum: 0.17929626209661365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7305295253172517
+  lightness: 0.31164587289094925
+  saturation: 0.1641567333135754
+  rhythmicContrast: 0.7677560858428478
+purpose: []
